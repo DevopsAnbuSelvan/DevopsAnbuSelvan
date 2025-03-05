@@ -1,3 +1,5 @@
+## 👋 Hi There!  
+
 ## 🚀 About Me
 Hi, I'm **Anbu Selvan**! I specialize in **web and mobile app development** with expertise in:
 - **Frontend:** HTML, CSS, JavaScript, React.js, Next.js
