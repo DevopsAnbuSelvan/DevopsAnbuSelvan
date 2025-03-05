@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Developer & Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Anbu Selvan</h1>
+<h3 align="center">A Passionate Developer</h3>
