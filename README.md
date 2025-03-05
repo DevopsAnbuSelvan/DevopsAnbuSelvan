@@ -1,2 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anbu Selvan</h1>
-<h3 align="center">A Passionate Developer</h3>
+## 🚀 About Me
+Hi, I'm **Anbu Selvan**! I specialize in **web and mobile app development** with expertise in:
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js
+- **Backend:** Node.js
+- **Mobile:** React Native (Android & iOS)
+- **API Testing:** Postman API
+- **AI Tools:** Cursor AI
