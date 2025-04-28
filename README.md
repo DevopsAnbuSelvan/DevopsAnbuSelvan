@@ -32,11 +32,5 @@ Currently working as a **Mobile App Developer at WonChance**, where I:
 - Build scalable and maintainable codebases using modern thinking patterns
 - Collaborate with cross-functional teams leveraging AI tools
 - Optimize app performance and user experience through data-driven insights
-
----
-
-## 🐍 Watch My Contributions Snake!
-
-![snake gif](https://raw.githubusercontent.com/DevopsAnbuSelvan/DevopsAnbuSelvan/output/github-contribution-grid-snake.svg)
-
+  
 ---
