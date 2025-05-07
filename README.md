@@ -14,7 +14,7 @@ I specialize in **Web and Mobile App Development** for both Android and iOS plat
 - **DevOps:** GitHub Actions, CI/CD Pipelines, Vercel Deployment
 - **API Testing:** Postman API, API Documentation
 - **Development Tools:** Git, VS Code, Android Studio, Xcode
-- **AI Tools:** Cursor AI, ChatGPT, Sonnet Claude
+- **AI Tools:** Cursor AI, Sonnet Claude
 - **Other Skills:** Responsive Design, Cross-Platform Development, Performance Optimization
 
 ---
