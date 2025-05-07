@@ -7,12 +7,6 @@ I specialize in **Web and Mobile App Development** for both Android and iOS plat
 
 ---
 
-## 🤖 AI & Cloud
-- **Sonnet Claude:** Leveraging advanced AI capabilities for enhanced development workflows
-- **Cloud Thinking:** Implementing cloud-native architectures and solutions
-
----
-
 ## 💻 Technical Skills
 - **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express.js, Fastify, MongoDB, Firebase
